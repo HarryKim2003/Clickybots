@@ -2,7 +2,7 @@
 
 #Coded by: Harry Kim
 
-#Robot Depression Simulator
+#Clickybots 
 
 #############################################################################################################
 
@@ -743,6 +743,7 @@ s.bind('<Key>', keyClickHandler)
 s.pack()
 s.focus_set()
 root.mainloop()
+
 
 
 
